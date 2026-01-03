@@ -1,0 +1,20 @@
+Trial Account
+https://apceboi-mhb85768.snowflakecomputing.com/console/login.
+
+User Name
+Rohan
+
+Password
+Rohanrocks123$
+
+Name | Value
+Account identifier | APCEBOI-MHB85768
+Data sharing account identifier | APCEBOI.MHB85768
+Organization name | APCEBOI
+Account name | MHB85768
+Account/Server URL | APCEBOI-MHB85768.snowflakecomputing.com
+Login name | ROHAN
+Role | ACCOUNTADMIN
+Account locator | IAB10208
+Cloud platform | AWS
+Edition | Enterprise
